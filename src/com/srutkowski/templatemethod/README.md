@@ -1,6 +1,6 @@
 # Template Method
 
-Define the
+Defines the
 skeleton of an algorithm in an operation,
 deferring some steps to subclasses.
 Template Method lets subclasses redefine

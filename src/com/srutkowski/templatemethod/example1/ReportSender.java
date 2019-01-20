@@ -20,6 +20,6 @@ public abstract class ReportSender {
     abstract String prepareReport(String data);
 
     final void sendReport(String report) {
-        System.out.printf("Sending Report: ".concat(report).concat(System.lineSeparator()));
+        System.out.println("Sending Report: ".concat(report));
     }
 }
