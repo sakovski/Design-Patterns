@@ -7,6 +7,7 @@
 ## Behavioral
 * [Strategy](src/com/srutkowski/strategy)
 * [Template Method](src/com/srutkowski/templatemethod)
+* [Observer](src/com/srutkowski/observer)
 
 ### Implementation stack
 * Java 11
