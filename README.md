@@ -3,6 +3,7 @@
 ## Creational
 
 ## Structural
+* [Decorator](src/com/srutkowski/decorator)
 
 ## Behavioral
 * [Strategy](src/com/srutkowski/strategy)
