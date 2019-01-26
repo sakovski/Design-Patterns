@@ -1,6 +1,7 @@
 # Design Patterns
 
 ## Creational
+* [Factory Method](src/com/srutkowski/factorymethod)
 
 ## Structural
 * [Decorator](src/com/srutkowski/decorator)
