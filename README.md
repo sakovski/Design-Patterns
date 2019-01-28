@@ -3,6 +3,7 @@
 ## Creational
 * [Factory Method](src/com/srutkowski/factorymethod)
 * [Abstract Factory](src/com/srutkowski/abstractfactory)
+* [Singleton](src/com/srutkowski/singleton)
 
 ## Structural
 * [Decorator](src/com/srutkowski/decorator)
