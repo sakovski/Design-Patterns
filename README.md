@@ -7,6 +7,7 @@
 
 ## Structural
 * [Decorator](src/com/srutkowski/decorator)
+* [Adapter](src/com/srutkowski/adapter)
 
 ## Behavioral
 * [Strategy](src/com/srutkowski/strategy)
