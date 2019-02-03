@@ -19,6 +19,7 @@
 ### Implementation stack
 * Java 11
 
-### Source:
+### Read more:
 * [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 * [Refactoring Guru](https://refactoring.guru)
