@@ -15,6 +15,7 @@
 * [Template Method](src/com/srutkowski/templatemethod)
 * [Observer](src/com/srutkowski/observer)
 * [Command](src/com/srutkowski/command)
+* [Iterator](src/com/srutkowski/iterator)
 
 ### Implementation stack
 * Java 11
