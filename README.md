@@ -9,6 +9,7 @@
 * [Decorator](src/com/srutkowski/decorator)
 * [Adapter](src/com/srutkowski/adapter)
 * [Facade](src/com/srutkowski/facade)
+* [Composite](src/com/srutkowski/composite)
 
 ## Behavioral
 * [Strategy](src/com/srutkowski/strategy)
