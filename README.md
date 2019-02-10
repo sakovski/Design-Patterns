@@ -17,6 +17,7 @@
 * [Observer](src/com/srutkowski/observer)
 * [Command](src/com/srutkowski/command)
 * [Iterator](src/com/srutkowski/iterator)
+* [State](src/com/srutkowski/state)
 
 ### Implementation stack
 * Java 11
